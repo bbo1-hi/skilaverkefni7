@@ -5,7 +5,7 @@
  */
 
 // fasti sem segir til um hve marga leiki eigi að spila
-const GAMES_TO_PLAY = 2;
+const GAMES_TO_PLAY = 10;
 var rettsvor = 0;
 var GAMES_Played = 0
 var startTime, endTime;
